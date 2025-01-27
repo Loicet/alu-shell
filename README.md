@@ -1,1 +1,1 @@
-basics folder
+alu-shell repository
