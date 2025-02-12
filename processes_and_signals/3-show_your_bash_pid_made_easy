@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Use pgrep to find processes by name
 
-pgrep -l bashi 
+pgrep -l bash 
